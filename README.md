@@ -1,0 +1,22 @@
+<h1>Supervised Learning with scikit-learn</h1>
+<p>This repository is a way of keeping track of methods learned during data camp's course <a href="https://www.datacamp.com/courses/supervised-learning-with-scikit-learn">supervised learning with scikit-learn</a></p>
+  
+<h3>The course consists of four chapters on: </h3>
+<ol>
+  <li>Classification</li>
+  <li>Regression</li> 
+  <li>Fine tuning your model</li> 
+  <li>Preprocessing and timelines</li>
+</ol>
+<br>
+<h2>Full descriptions can be found below:</h2>
+<br>
+<br>
+
+![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH01.png)<br>
+
+![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH02.png)<br>
+
+![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH03.png)<br>
+
+![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH04.png)<br>
