@@ -1,12 +1,12 @@
-<h1>Supervised Learning with scikit-learn</h1>
-<p>This repository is a way of keeping track of methods learned during data camp's course <a href="https://www.datacamp.com/courses/supervised-learning-with-scikit-learn">supervised learning with scikit-learn</a></p>
+<h1>Unsupervised Learning with python</h1>
+<p>This repository is a way of keeping track of methods learned during data camp's course <a href="https://www.datacamp.com/courses/unsupervised-learning-in-python">unsupervised learning with python</a></p>
   
 <h3>The course consists of four chapters on: </h3>
 <ol>
-  <li>Classification</li>
-  <li>Regression</li> 
-  <li>Fine tuning your model</li> 
-  <li>Preprocessing and timelines</li>
+  <li>Clustering for dataset exploration</li>
+  <li>Visualization with hierarchical clustering and t-SNE</li> 
+  <li>Decorrelating your data and dimension reduction</li> 
+  <li>Discovering interpretable features</li>
 </ol>
 <br>
 <h2>Full descriptions can be found below:</h2>
