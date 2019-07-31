@@ -13,10 +13,10 @@
 <br>
 <br>
 
-![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH01.png)<br>
+![alt text](https://github.com/scharnk/Unsupervised-learning-in-python/blob/master/images/unsupervised_CH01.png)<br>
 
-![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH02.png)<br>
+![alt text](https://github.com/scharnk/Unsupervised-learning-in-python/blob/master/images/unsupervised_CH02.png)<br>
 
-![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH03.png)<br>
+![alt text](https://github.com/scharnk/Unsupervised-learning-in-python/blob/master/images/unsupervised_CH03.png)<br>
 
-![alt text](https://github.com/scharnk/unsupervised-learning-with-python/blob/master/images/unsupervised_CH04.png)<br>
+![alt text](https://github.com/scharnk/Unsupervised-learning-in-python/blob/master/images/unsupervised_CH04.png)<br>
